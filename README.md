@@ -29,8 +29,6 @@
      ```bash
      pip install -r requirements.txt
      ```
-   - If there is no `requirements.txt`, create one based on the imports in your project.
-
 3. **Run the Main Script:**
    - You can execute the project by running the `main.py` script from the `src` directory using the `-m` flag:
      ```bash
